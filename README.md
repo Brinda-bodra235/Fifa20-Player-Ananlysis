@@ -1,2 +1,8 @@
 # Fifa20-Player-Ananlysis
 This project analyzes FIFA player data using Python and data science techniques. It includes data cleaning, preprocessing, and exploratory data analysis to study player attributes like age, position, overall rating, potential, and market value. Visualizations are used to identify trends and performance patterns.
+
+This project involves an in-depth analysis of FIFA player data using Python and data science methodologies. The objective of the project is to explore, clean, and analyze a real-world sports dataset to gain meaningful insights into player performance and characteristics. The dataset includes information such as player age, nationality, position, overall rating, potential, preferred foot, wages, and market value.
+
+The project begins with data cleaning and preprocessing, where missing values are handled and relevant features are selected to improve data quality. Exploratory Data Analysis (EDA) is performed using Pandas, NumPy, Matplotlib, and Seaborn to understand relationships between different attributes. Various visualizations are created to identify trends such as how age impacts overall rating, which positions have higher market values, and how potential differs across players.
+
+This project helps in understanding how data analysis techniques can be applied to sports analytics. It demonstrates practical skills in working with large datasets, feature exploration, and data visualization using Jupyter Notebook. The insights obtained can be useful for player scouting, team building, and performance evaluation. Overall, this project showcases the complete data analysis workflow, from raw data to actionable insights, making it a strong foundation project for aspiring data scientists.
